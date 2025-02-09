@@ -1,8 +1,6 @@
 # E-Commerce-Customer-Churn-Prediction
 <img src="https://github.com/user-attachments/assets/b385adcd-6c34-4f28-9ee5-f694b3719bc2" alt="ML-cover" style="display: block; margin: 0 auto;">
 
-
-# Ecommerce Customer Churn Analysis and Prediction
 This project involves a comprehensive analysis and prediction of customer churn for a leading online E-commerce company. The goal is to identify customers who are likely to churn, enabling the company to take proactive measures, such as offering promotional deals to enhance customer retention.
 
 # Dataset Overview
