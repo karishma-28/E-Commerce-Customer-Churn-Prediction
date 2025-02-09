@@ -1,5 +1,5 @@
 # E-Commerce-Customer-Churn-Prediction
-<img src="[https://github.com/Leangonplu/Ecommerce_Customer_Churn_Analysis_and_Prediction/blob/main/assets/image.png](https://github.com/user-attachments/assets/b385adcd-6c34-4f28-9ee5-f694b3719bc2)" alt="ML-cover" style="display: block; margin: 0 auto;">
+<img src="https://github.com/user-attachments/assets/b385adcd-6c34-4f28-9ee5-f694b3719bc2" alt="ML-cover" style="display: block; margin: 0 auto;">
 
 
 # Ecommerce Customer Churn Analysis and Prediction
